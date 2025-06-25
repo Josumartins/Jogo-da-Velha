@@ -19,8 +19,8 @@ O jogo usa a biblioteca `pygame` para desenhar o tabuleiro e registrar os clique
 ### :file_folder: 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/tic-tac-toe-python.git
-cd tic-tac-toe-python
+git clone https://github.com/Josumartins/Jogo-da-Velha.git
+cd Jogo-da-Velha  
 
 ```
 ### :hourglass: 2. Instale as dependencias:
