@@ -12,7 +12,6 @@ O jogo usa a biblioteca `pygame` para desenhar o tabuleiro e registrar os clique
 - O primeiro jogador começa jogando com o X
 - Clique em qualquer area vazia
 - é mostrado no terminal quem ganhou ou se deu empate
-- o jogo acaba quando um dos dois vencer ou acabar em empate
 
 ## 🚀 Como Executar
 
