@@ -25,7 +25,10 @@ cd Jogo-da-Velha
 ### :hourglass: 2. Instale as dependencias:
 
 ```
+python3 -m venv venv
+source venv/bin/activate
 pip install pygame
+
 ```
 ### :gear: 3.Execute o programa:
 
